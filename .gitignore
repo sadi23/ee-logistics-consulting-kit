@@ -1,0 +1,9 @@
+node_modules/
+.prosper-clients/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env
+*.log
+applications/
