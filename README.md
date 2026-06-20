@@ -2,7 +2,7 @@
 
 **AI-powered skillset for independent cross-border logistics consultants.**
 
-Adapted from the career-helper agentic plugin pattern by Prosper AI Consulting.  
+Inspired by and adapted from [career-helper](https://github.com/Zal4DW/career-helper) by Prosper AI Consulting.  
 Repurposed for supply chain operations professionals who sell expertise, not hours.
 
 ---
@@ -39,7 +39,6 @@ A structured collection of agentic skills designed for an independent logistics 
 ## Architecture
 
 ```
-lc-kit/
 ee-logistics-consulting-kit/
 ├── agents/            # Orchestrator agent (consultant-coach)
 ├── commands/          # Entry points (getting-started, help, quick-start)
